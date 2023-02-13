@@ -1,4 +1,6 @@
 # Open-Source Planar Cable-Driven Robot
 
-This repository offers to share all the necessary material to build a simple and low-cost planar cable-driven parallel robot
-Design and programming by Mikael Arslan and Lionel Birglen
+This repository shares all the required material to build a simple and low-cost planar cable-driven parallel robot, from editable CAD files and program to electrical circuitry.
+
+All design and programming by Mikael Arslan and Lionel Birglen. 
+2022
