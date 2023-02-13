@@ -4,5 +4,5 @@ This repository shares all the required material to build a simple and low-cost 
 
 ![Cable Robot](CableRobotFinalVersion.jpg?raw=true "Title")
 
-All design and programming by Mikael Arslan and Lionel Birglen.  <br />
+All designs and programs by Mikael Arslan and Lionel Birglen.  <br />
 2022-...
