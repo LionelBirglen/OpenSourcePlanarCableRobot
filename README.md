@@ -4,5 +4,6 @@ This repository shares all the required information to build and control a simpl
 
 ![Cable Robot](CableRobotFinalVersion.jpg?raw=true "Title")
 
-All designs and programs by Mikael Arslan and Lionel Birglen.  <br />
+All files by Mikael Arslan and Lionel Birglen.  <br />
+Polytechnique Montreal<br />
 2022-...
