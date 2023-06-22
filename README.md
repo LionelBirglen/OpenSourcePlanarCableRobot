@@ -7,3 +7,6 @@ This repository shares all the required information to build and control a simpl
 All files by Mikael Arslan and Lionel Birglen  <br />
 Polytechnique Montreal<br />
 2022-...
+
+# DISCLAIMER:
+This hardware and software project is provided "as is", and at your own risk. Under no circumstances shall any author be liable for direct, indirect, special, incidental, or consequential damages resulting from the use, misuse, or inability to use this hardware/software, even if the authors have been advised of the possibility of such damages.
