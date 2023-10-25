@@ -1,6 +1,8 @@
 # Open-Source Planar Cable-Driven Robot
 
-This repository shares all the required information to build and control a simple and low-cost planar cable-driven parallel robot with four actuators, from editable CAD files and programs to electrical circuitry. The robot can be carted and moved around easily. It can also be programmed and operated with an included teach pendant without a computer connected to the machine. Voltages and currents fed to the actuators can be acquired through a D-sub connector for measurements.
+This repository shares all the required information to build and control a simple and low-cost planar cable-driven parallel robot with four actuators, from editable CAD files and programs to electrical circuitry. The robot can be carted and moved around easily. It can also be programmed and operated with an included teach pendant without a computer connected to the machine. Voltages and currents fed to the actuators can be acquired through a D-sub connector for measurements. See:
+http://cctomm.ca/2023/CCToMM_M3_Symposium_paper_9.pdf<br>
+for more informations.
 
 Video demonstrations:<br>
 https://www.youtube.com/watch?v=gsjz_0bn3mc<br>
